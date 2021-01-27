@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2> Hello there, this is Mansi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
+I am Mansi Priya, a 3rd year btech student in  Vellore Institute of technology, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with my knowledge
 
-<!--
-**Mansi157/Mansi157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-mansi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mansi-priya/)](https://www.linkedin.com/in/mansi-priya-7303041b5/) [![Gmail Badge](https://img.shields.io/badge/-mansipriya4321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mansipriya4321@gmail.com)](mailto:mansipriya4321@gmail.com) <a href="https://www.instagram.com/mansi_____2000/"><img src="https://img.shields.io/badge/-mansi_____2000-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## :computer: Technologies I Love
+* Front-end development using  Html, javaScript, CSS, Bootstrap 
+* Backend development using  MySQL, Php
+
+
+
+## Programming Languages
+ <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="center" align="left src="https://github-readme-stats.vercel.app/api?username=remcohalman&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<p><img  style="margin-top:12px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi157&show_icons=true&locale=en&layout=compact" alt="mansi157" /></p>
+
+<p style="background-color:red;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansi157&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="mansi157" /></p>
