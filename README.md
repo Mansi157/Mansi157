@@ -1,6 +1,6 @@
 <h2> Hello there, this is Mansi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
-I am Mansi Priya, a 3rd year b.tech student in  Vellore Institute of technology,bhopal and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with my knowledge
+I am Mansi Priya, a 3rd year B.tech student in  Vellore Institute of technology,Bhopal and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with my knowledge
 
 <br/>
 
