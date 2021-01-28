@@ -26,5 +26,4 @@ I am Mansi Priya, a 3rd year btech student in  Vellore Institute of technology, 
 
 <p><img  style="margin-top:12px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi157&show_icons=true&locale=en&layout=compact" alt="mansi157" /></p>
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=mansi157&show_icons=rue&locale=en&theme=blue-green" alt="Mansi157" width="400" /></p>
 
