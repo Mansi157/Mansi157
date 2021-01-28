@@ -1,5 +1,5 @@
-<h2> Hello there, this is Mansi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="
-![1](https://user-images.githubusercontent.com/73159092/106096035-cb424180-615a-11eb-936e-1ab9b001a0f1.png)">
+<h2> Hello there, this is Mansi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
 I am Mansi Priya, a 3rd year btech student in  Vellore Institute of technology, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with my knowledge
 
 <br/>
@@ -25,4 +25,4 @@ I am Mansi Priya, a 3rd year btech student in  Vellore Institute of technology, 
 </a>
 <p><img  style="margin-top:12px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi157&show_icons=true&locale=en&layout=compact" alt="mansi157" /></p>
 
-<p style="background-color:red;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansi157&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="mansi157" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=mansi157&show_icons=true&locale=en&theme=blue-green" alt="Mansi157" width="400" /></p>
