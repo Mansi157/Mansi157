@@ -21,8 +21,10 @@ I am Mansi Priya, a 3rd year btech student in  Vellore Institute of technology, 
 <br/>
 <br/>
 <br/>
-<img align="center" align="left src="https://github-readme-stats.vercel.app/api?username=remcohalman&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mansi157&layout=compact&langs_count=8&theme=algolia"/>
+
+
 <p><img  style="margin-top:12px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansi157&show_icons=true&locale=en&layout=compact" alt="mansi157" /></p>
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=mansi157&show_icons=true&locale=en&theme=blue-green" alt="Mansi157" width="400" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=mansi157&show_icons=rue&locale=en&theme=blue-green" alt="Mansi157" width="400" /></p>
+
