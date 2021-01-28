@@ -1,4 +1,4 @@
-<h2> Hello there, this is Mansi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
+<h2> Hello there, this is Mansi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="![4](https://user-images.githubusercontent.com/73159092/106094806-a8169280-6158-11eb-8ad0-c664de0ef0b2.gif)">
 I am Mansi Priya, a 3rd year btech student in  Vellore Institute of technology, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with my knowledge
 
 <br/>
