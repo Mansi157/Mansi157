@@ -6,7 +6,7 @@ I am Mansi Priya, a 3rd year B.tech student in  Vellore Institute of technology,
 
 [![Linkedin Badge](https://img.shields.io/badge/-mansi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mansi-priya/)](https://www.linkedin.com/in/mansi-priya-7303041b5/) [![Gmail Badge](https://img.shields.io/badge/-mansipriya4321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mansipriya4321@gmail.com)](mailto:mansipriya4321@gmail.com) <a href="https://www.instagram.com/mansi_____2000/"><img src="https://img.shields.io/badge/-mansi_____2000-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-
+<h4> &#10024; my <a href="https://mansi157.github.io/portfolio/">Portfolio<a/> is here</h4>
 
 ## :computer: Technologies I Love
 * Front-end development using  Html, javaScript, CSS, Bootstrap 
